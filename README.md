@@ -1,6 +1,6 @@
 # Flask Demo
 
-A robust and scalable boilerplate for kick-starting server-side applications.
+A demo server-side application built with Flask.
 
 ## Prerequesites
 
